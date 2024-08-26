@@ -1,5 +1,5 @@
 # Medical cost Analysis
-***
+Method used ```Neural Network Regression with Tensorflow```
 Credits: Udemy- TensorFlow for Deep Learning Bootcamp
 ```Via Learning Mode Project```
 ***
